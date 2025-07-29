@@ -17,7 +17,7 @@ body {
     margin: auto;
     border: 15px solid rgba(184, 32, 32, 0.432);
     border-top: 15px solid white;
-    border-bottom: 15px solid white;
+    border-bottom-color: transparent;
     border-radius: 50%;
     animation: span 2s linear infinite;
 }
